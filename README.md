@@ -1,6 +1,6 @@
 
 <h2 align="left">Seja bem-vindo(a)!
-<br><br>👋 Eu sou Berta Batista, especialista em gerenciamento e modelagem de processos em tecnologia!</h2>
+<br><br>👋 Eu sou Berta Batista, gerencio e executo modelagem de processos em tecnologia!</h2>
 
 ###
 
