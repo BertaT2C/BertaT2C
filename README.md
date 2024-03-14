@@ -5,7 +5,7 @@
 ### 👋Eu sou Berta Batista, contruo modelagem de processos e gerencio projetos de tecnologia!</h2>
 
 <div align="center">
-    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/4a6e305d-f001-49f2-ba65-6e642c6cc5c6" width="200">
+    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/4a6e305d-f001-49f2-ba65-6e642c6cc5c6" width="310">
 </div>
 
 <div align="center">
