@@ -11,8 +11,9 @@
   
 </div>
 
-###
-
+<div align="right">
+    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/fa3cdb81-20da-4cbc-986a-45b3ad947336" width="300">
+</div>
 
 ###
 
