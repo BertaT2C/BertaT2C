@@ -11,13 +11,13 @@
   
 </div>
 
-<div align="right">
-    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/fa3cdb81-20da-4cbc-986a-45b3ad947336" width="300">
+<div align="center">
+    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/c9593fcd-4060-4646-80bb-346312b61b30" width="180">
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="typescript logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
