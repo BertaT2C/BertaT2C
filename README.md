@@ -4,16 +4,17 @@
 
 ### 👋Eu sou Berta Batista, contruo modelagem de processos e gerencio projetos de tecnologia!</h2>
 
-###
+<div align="center">
+    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/c9593fcd-4060-4646-80bb-346312b61b30" width="180">
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BertaT2C&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
   
 </div>
 
-<div align="center">
-    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/c9593fcd-4060-4646-80bb-346312b61b30" width="180">
-</div>
+
 
 ###
 
