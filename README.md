@@ -51,5 +51,5 @@ Este repositório foi desenvolvido com o objetivo de demonstrar habilidades téc
 
 Fique à vontade para explorar os projetos disponíveis aqui, mas lembre-se sempre de que todas as informações são fictícias e não devem ser utilizadas para qualquer fim além de fins educacionais, de demonstração ou simulação.
 
-Obrigado pela compreensão!
+Obrigada pela compreensão!
 
