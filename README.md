@@ -41,5 +41,15 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
 
+<BR> <BR>
 
+**🚨 Aviso Importante: Todas as informações contidas nos projetos deste repositório são fictícias e foram criadas exclusivamente para fins de demonstração ou simulação.**
+
+Nenhuma das empresas, organizações, pessoas ou eventos mencionados nos arquivos deste projeto são reais ou correspondem a dados autênticos. Quaisquer semelhanças com nomes, lugares ou entidades existentes são puramente coincidência.
+
+Este repositório foi desenvolvido com o objetivo de demonstrar habilidades técnicas, práticas de programação e experiência em desenvolvimento de software. Todas as referências a empresas, produtos, serviços ou indivíduos são meramente fictícias e não devem ser interpretadas como representações precisas da realidade.
+
+Fique à vontade para explorar os projetos e código-fonte disponíveis aqui, mas lembre-se sempre de que todas as informações são fictícias e não devem ser utilizadas para qualquer fim além de fins educacionais, de demonstração ou simulação.
+
+Obrigado pela compreensão!
 
