@@ -47,9 +47,9 @@
 
 Nenhuma das empresas, organizações, pessoas ou eventos mencionados nos arquivos deste projeto são reais ou correspondem a dados autênticos. Quaisquer semelhanças com nomes, lugares ou entidades existentes são puramente coincidência.
 
-Este repositório foi desenvolvido com o objetivo de demonstrar habilidades técnicas, práticas de programação e experiência em desenvolvimento de software. Todas as referências a empresas, produtos, serviços ou indivíduos são meramente fictícias e não devem ser interpretadas como representações precisas da realidade.
+Este repositório foi desenvolvido com o objetivo de demonstrar habilidades técnicas, práticas de projetos e experiência em desenvolvimento e mapeamento de sistemas. Todas as referências a empresas, produtos, serviços ou indivíduos são meramente fictícias e não devem ser interpretadas como representações precisas da realidade.
 
-Fique à vontade para explorar os projetos e código-fonte disponíveis aqui, mas lembre-se sempre de que todas as informações são fictícias e não devem ser utilizadas para qualquer fim além de fins educacionais, de demonstração ou simulação.
+Fique à vontade para explorar os projetos disponíveis aqui, mas lembre-se sempre de que todas as informações são fictícias e não devem ser utilizadas para qualquer fim além de fins educacionais, de demonstração ou simulação.
 
 Obrigado pela compreensão!
 
