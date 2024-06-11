@@ -2,7 +2,7 @@
 <h2 align="center">Seja bem-vindo(a)!
 <br> <br>
 <div align="center">
-👋Eu sou Berta Batista, contruo modelagem de processos e gerencio projetos de tecnologia!</h2>
+👋Eu sou Berta Batista, contruo modelagem de processos e gerencio projetos de tecnologia!
 </div>
 
 <div align="center">
