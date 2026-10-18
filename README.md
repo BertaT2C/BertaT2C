@@ -21,7 +21,7 @@ Minha trajetória reúne experiência em **análise de negócios, levantamento e
 
 **Métodos e práticas:** Análise de Negócios · BPMN · AS IS / TO BE · Scrum · Kanban · Histórias de Usuário · Critérios de Aceite · Gestão de Backlog · Testes e Homologação
 
-**Ferramentas e tecnologias:** Jira · Confluence · Miro · Bizagi · SQL · Power BI · UiPath · Automation Anywhere · Oracle ERP · Integrações e automação de processos
+**Ferramentas e tecnologias:** Jira · Confluence · Miro · Bizagi · SQL · UiPath · Oracle ERP · Integrações e automação de processos
 
 ## 📁 Projetos em destaque
 
@@ -35,7 +35,7 @@ Minha trajetória reúne experiência em **análise de negócios, levantamento e
 
 ## 🎯 Meu foco profissional
 
-Atuar em desafios de **Análise de Negócios Sênior, Product Ownership e Transformação de Processos**, aproximando estratégia, operação e tecnologia.
+Atuar em desafios de **Análise de Negócios Sênior, Product Owner e Transformação de Processos**, aproximando estratégia, operação e tecnologia.
 
 ---
 
