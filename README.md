@@ -1,55 +1,42 @@
+# Olá, eu sou Berta Batista 👋
 
-<h2 align="center">Seja bem-vindo(a)!
-<br> <br>
-<div align="center">
-👋Eu sou Berta Batista, contruo modelagem de processos e gerencio projetos de tecnologia!
-</div>
+### Analista de Negócios | Product Owner | Transformação Digital e de Processos
 
-<div align="center">
-    <img src="https://github.com/BertaT2C/BertaT2C/assets/99225701/4a6e305d-f001-49f2-ba65-6e642c6cc5c6" width="350">
-</div>
+Conecto **necessidades de negócio, pessoas e tecnologia** para transformar desafios em processos mais eficientes e soluções digitais com valor para o usuário.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BertaT2C&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  
-</div>
+Minha trajetória reúne experiência em **análise de negócios, levantamento e detalhamento de requisitos, gestão de backlog, modelagem de processos e acompanhamento de entregas**, com atuação em projetos de diferentes segmentos, incluindo energia, serviços financeiros e indústria.
 
+## 💡 Como gero valor
 
+- **Conexão entre negócio e tecnologia:** facilitação de conversas com áreas de negócio, usuários e times técnicos.
+- **Mapeamento e melhoria de processos:** análise de fluxos **AS IS / TO BE**, identificação de gargalos e oportunidades de automação.
+- **Requisitos e produto:** regras de negócio, histórias de usuário, critérios de aceite, priorização e refinamento de backlog.
+- **Transformação digital:** iniciativas com **RPA, chatbots, canais digitais e modernização de sistemas**.
+- **Alinhamento de stakeholders:** construção de entendimento compartilhado e acompanhamento de decisões.
+- **Entregas ponta a ponta:** apoio desde a descoberta e planejamento até testes, homologação e implantação.
+- **Indicadores e resultados:** uso de dados para apoiar decisões e avaliar melhorias.
+- **Melhoria contínua:** busca de soluções práticas e sustentáveis para processos e serviços.
 
+## 🛠️ Conhecimentos e ferramentas
 
+**Métodos e práticas:** Análise de Negócios · BPMN · AS IS / TO BE · Scrum · Kanban · Histórias de Usuário · Critérios de Aceite · Gestão de Backlog · Testes e Homologação
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
+**Ferramentas e tecnologias:** Jira · Confluence · Miro · Bizagi · SQL · Power BI · UiPath · Automation Anywhere · Oracle ERP · Integrações e automação de processos
 
+## 📁 Projetos em destaque
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-</div>
+| Projeto | O que demonstra |
+| --- | --- |
+| [Automação de atendimento via WhatsApp / Chatbot](https://github.com/BertaT2C/Fluxograma_Automacao_Whatsapp_Chatbot) | Desenho de fluxos e jornadas para canais digitais |
+| [Modelagem de processos para RPA](https://github.com/BertaT2C/Projeto_modelagem_para_Automacao_RPA) | Análise e documentação de processos para automação |
+| [Automação de emissão de notas fiscais em ERP](https://github.com/BertaT2C/Projeto_Automacao_EmissaodeNF_em_ERP) | Automação e integração com processos empresariais |
+| [Projeto Miro – Canais Digitais](https://github.com/BertaT2C/Projeto_Miro_CanaisDigitais) | Colaboração visual e estruturação de soluções digitais |
+| [Automação com UiPath](https://github.com/BertaT2C/Uipath-RPA) | Experimentação prática com automação robótica |
 
-<BR> <BR>
+## 🎯 Meu foco profissional
 
-### **🚨 Aviso Importante: Todas as informações contidas nos projetos deste repositório são fictícias e foram criadas exclusivamente para fins de demonstração ou simulação.**
+Atuar em desafios de **Análise de Negócios Sênior, Product Ownership e Transformação de Processos**, aproximando estratégia, operação e tecnologia.
 
-Nenhuma das empresas, organizações, pessoas ou eventos mencionados nos arquivos deste projeto são reais ou correspondem a dados autênticos. Quaisquer semelhanças com nomes, lugares ou entidades existentes são puramente coincidência.
+---
 
-Este repositório foi desenvolvido com o objetivo de demonstrar habilidades técnicas, práticas de projetos e experiência em desenvolvimento e mapeamento de sistemas. Todas as referências a empresas, produtos, serviços ou indivíduos são meramente fictícias e não devem ser interpretadas como representações precisas da realidade.
-
-Fique à vontade para explorar os projetos disponíveis aqui, mas lembre-se sempre de que todas as informações são fictícias e não devem ser utilizadas para qualquer fim além de fins educacionais, de demonstração ou simulação.
-
-Obrigada pela compreensão!
-
+> **Nota sobre o portfólio:** Os exemplos disponibilizados publicamente têm finalidade de demonstração e aprendizado. Dados, cenários e referências apresentados nos materiais devem ser tratados como fictícios ou ilustrativos, sem divulgação de informações confidenciais de clientes e empregadores.
