@@ -1,4 +1,4 @@
-# Olá, eu sou Berta Batista 👋
+Berta Batista 👋
 
 ### Analista de Negócios | Product Owner | Transformação Digital e de Processos
 
@@ -6,7 +6,7 @@ Conecto **necessidades de negócio, pessoas e tecnologia** para transformar desa
 
 Minha trajetória reúne experiência em **análise de negócios, levantamento e detalhamento de requisitos, gestão de backlog, modelagem de processos e acompanhamento de entregas**, com atuação em projetos de diferentes segmentos, incluindo energia, serviços financeiros e indústria.
 
-## 💡 Como gero valor
+## Como gero valor
 
 - **Conexão entre negócio e tecnologia:** facilitação de conversas com áreas de negócio, usuários e times técnicos.
 - **Mapeamento e melhoria de processos:** análise de fluxos **AS IS / TO BE**, identificação de gargalos e oportunidades de automação.
@@ -17,13 +17,13 @@ Minha trajetória reúne experiência em **análise de negócios, levantamento e
 - **Indicadores e resultados:** uso de dados para apoiar decisões e avaliar melhorias.
 - **Melhoria contínua:** busca de soluções práticas e sustentáveis para processos e serviços.
 
-## 🛠️ Conhecimentos e ferramentas
+## Conhecimentos e ferramentas
 
 **Métodos e práticas:** Análise de Negócios · BPMN · AS IS / TO BE · Scrum · Kanban · Histórias de Usuário · Critérios de Aceite · Gestão de Backlog · Testes e Homologação
 
 **Ferramentas e tecnologias:** Jira · Confluence · Miro · Bizagi · SQL · UiPath · Oracle ERP · Integrações e automação de processos
 
-## 📁 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que demonstra |
 | --- | --- |
