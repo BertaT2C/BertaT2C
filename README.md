@@ -1,4 +1,3 @@
-Berta Batista 👋
 
 ### Analista de Negócios | Product Owner | Transformação Digital e de Processos
 
