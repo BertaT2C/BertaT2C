@@ -52,7 +52,9 @@ Atuei em projetos de **energia, seguros, consultoria e indústria**, colaborando
 
 ## O que encontrar neste portfólio
 
-Os repositórios reúnem **fluxogramas originais, documentações funcionais, arquivos de projetos e estudos de caso**. Quando um projeto é fictício ou demonstrativo, ou quando um indicador é apenas uma hipótese ou meta, isso é identificado em sua documentação.
+Os repositórios reúnem **fluxogramas originais, documentações funcionais, arquivos de projetos e estudos de caso**.
+
+> Por questões de confidencialidade (NDA), alguns projetos deste portfólio foram anonimizados ou recriados com cenários e indicadores ilustrativos. O objetivo aqui é demonstrar meu raciocínio estratégico, metodologia e capacidade de execução; métricas de impacto real podem ser detalhadas em uma conversa direta.
 
 **Meu foco profissional:** contribuir com **Análise de Negócios Sênior, Product Ownership, Análise de Produtos e projetos de transformação digital**, combinando clareza de requisitos, visão de negócio e entrega de valor.
 
