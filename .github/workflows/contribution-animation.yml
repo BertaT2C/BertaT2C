@@ -1,0 +1,54 @@
+name: Gráfico de contribuições
+
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/contribution-animation.yml]
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-animation
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gerar animação a partir do calendário do GitHub
+        uses: Platane/snk/svg-only@a041d6c27ba561a39f5be9c26a784812765e434b
+        with:
+          github_user_name: BertaT2C
+          outputs: |
+            dist/contribuicoes.svg?palette=github-light&color_snake=#007b71
+            dist/contribuicoes-escuro.svg?palette=github-dark&color_snake=#50e3c2
+
+      - name: Publicar SVGs na branch da animação
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          source_dir="$PWD/dist"
+          publish_dir="$(mktemp -d)"
+          git init --quiet --initial-branch=contribution-animation "$publish_dir"
+          cd "$publish_dir"
+          git remote add origin "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git"
+          gh auth setup-git
+          if git ls-remote --exit-code --heads origin contribution-animation; then
+            git fetch --depth=1 origin contribution-animation
+            git reset --hard FETCH_HEAD
+          else
+            status=$?
+            if [ "$status" -ne 2 ]; then exit "$status"; fi
+          fi
+          cp "$source_dir"/contribuicoes*.svg .
+          git add contribuicoes.svg contribuicoes-escuro.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'Atualiza gráfico de contribuições'
+          git push origin HEAD:refs/heads/contribution-animation
