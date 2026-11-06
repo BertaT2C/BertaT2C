@@ -10,6 +10,19 @@ Atuei em projetos de **energia, seguros, consultoria e indústria**, colaborando
 
 ---
 
+## Minha atividade no GitHub
+
+Uma animação percorre o calendário de contribuições do meu perfil. Os tons mais intensos indicam dias com maior atividade.
+
+<a href="https://github.com/BertaT2C#contribution-graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BertaT2C/BertaT2C/contribution-animation/contribuicoes-escuro.svg">
+    <img alt="Calendário animado de contribuições de Berta no GitHub" src="https://raw.githubusercontent.com/BertaT2C/BertaT2C/contribution-animation/contribuicoes.svg">
+  </picture>
+</a>
+
+[Ver calendário e detalhes por dia](https://github.com/BertaT2C#contribution-graph)
+
 ## Projetos em destaque — Produto, Discovery e Análise de Negócios
 
 | Projeto | Problema ou oportunidade explorada | O que o portfólio demonstra |
